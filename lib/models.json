@@ -1,0 +1,100 @@
+{
+  "models": [
+    {
+      "id": "claude-opus-4-6",
+      "provider": "Anthropic",
+      "providerId": "anthropic",
+      "name": "Claude Opus 4.6"
+    },
+    {
+      "id": "claude-sonnet-4-6",
+      "provider": "Anthropic",
+      "providerId": "anthropic",
+      "name": "Claude Sonnet 4.6"
+    },
+    {
+      "id": "claude-opus-4-5",
+      "provider": "Anthropic",
+      "providerId": "anthropic",
+      "name": "Claude opus 4.5"
+    },
+    {
+      "id": "claude-sonnet-4-5",
+      "provider": "Anthropic",
+      "providerId": "anthropic",
+      "name": "Claude sonnet 4.5"
+    },
+    {
+      "id": "claude-haiku-4-5",
+      "provider": "Anthropic",
+      "providerId": "anthropic",
+      "name": "Claude haiku 4.5"
+    },
+    {
+      "id": "gemini-3.1-pro-preview",
+      "provider": "Google Generative AI",
+      "providerId": "google",
+      "name": "Gemini 3.1 Pro (Preview)"
+    },
+    {
+      "id": "gemini-3-pro-preview",
+      "provider": "Google Generative AI",
+      "providerId": "google",
+      "name": "Gemini 3 Pro (Preview)"
+    },
+    {
+      "id": "gemini-3-flash-preview",
+      "provider": "Google Generative AI",
+      "providerId": "google",
+      "name": "Gemini 3 Flash (Preview)"
+    },
+    {
+      "id": "gemini-2.5-pro",
+      "provider": "Google Generative AI",
+      "providerId": "google",
+      "name": "Gemini 2.5 Pro"
+    },
+    {
+      "id": "gemini-2.5-flash",
+      "provider": "Google Generative AI",
+      "providerId": "google",
+      "name": "Gemini 2.5 Flash"
+    },
+    {
+      "id": "gpt-5.2-pro",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-5.2 Pro"
+    },
+    {
+      "id": "gpt-5.2",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-5.2"
+    },
+    {
+      "id": "gpt-5.1",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-5.1"
+    },
+    {
+      "id": "gpt-5-pro",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-5 Pro"
+    },
+    {
+      "id": "gpt-5",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-5"
+    },
+    {
+      "id": "gpt-5-mini",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-5 Mini"
+    }
+  ]
+}
